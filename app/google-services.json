@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966071356283",
+    "firebase_url": "https://oneomatic-default-rtdb.firebaseio.com",
+    "project_id": "oneomatic",
+    "storage_bucket": "oneomatic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966071356283:android:3906e648b0cdd13882cbde",
+        "android_client_info": {
+          "package_name": "com.srishti.oneomatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966071356283-lfpid396nb5374o9t75im5n4uvddoob4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srishti.oneomatic",
+            "certificate_hash": "e5f3e42f4e2dd2cc5d12b4b29e1c743f30b4c2b5"
+          }
+        },
+        {
+          "client_id": "966071356283-t9li9v2il0f1a6tvgu29g470k25gb4gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcYy5mzl0NrsfbIZXFTD4qaLE5-TLCrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966071356283-t9li9v2il0f1a6tvgu29g470k25gb4gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/color"
+    tools:context=".Oxymeter.OxygenCalculate">
+    <include layout="@layout/toolbar"
+        android:id="@+id/toolbar"/>
+    <LinearLayout
+        android:id="@+id/LL"
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+            android:id="@+id/l"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/logout"
+            android:backgroundTint="#00000000"/>
+        <ImageButton
+            android:id="@+id/h"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/home"
+            android:layout_marginLeft="280dp"
+            android:backgroundTint="#00000000"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="OXYGEN LEVEL"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:textColor="#1a0270"
+        android:textSize="30sp"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/o2r"
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="20dp"
+        android:text="XX"
+        android:layout_gravity="center"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_marginBottom="140dp"
+        android:textStyle="bold"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textColor="#00FF00"
+        android:textSize="18sp"
+        android:text="NORMAL LEVEL \n 95-100"/>
+
+
+</LinearLayout>

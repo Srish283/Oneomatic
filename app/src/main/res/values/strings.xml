@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Oneomatic</string>
+    <string name="register">Register</string>
+    <string name="enter_name">Your Name</string>
+    <string name="email">Your Email</string>
+    <string name="phone">Your Phone Number</string>
+    <string name="pass">Your Password</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="have_an_account_sign_in">Have an Account? Sign IN</string>
+    <string name="login_page_title">Login Page</string>
+    <string name="confirm_your_password">Confirm your Password</string>
+    <string name="set_new_password">Set New Password</string>
+
+    <!--navigation-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <!--translator-->
+    <string name="translated_text_hint">Translated text</string>
+    <string name="downloaded_models_label">Downloaded models: %1$s</string>
+    <string name="translate_progress">Translating&#8230;</string>
+    <string name="delete_model">Delete Model</string>
+    <string name="download_model">Download Model</string>
+    <string name="unknown_error">Unknown error occurred.</string>
+    <string name="source_text_hint">Source text</string>
+    <string name="speech_prompt">Speak Now</string>
+    <string name="language_pack_missing">This language speech pack needs to be installed</string>
+    <string name="language_not_supported">This language speech is currently not supported</string>
+
+    <!--Medominder-->
+    <string name="no_cardetails">Click on the button below to begin creating your Medicine Reminder!</string>
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Alarm Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+    <string name="delete">Delete</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+    <string name="reminder_title">AlarmReminder</string>
+    <string name="medominder">Medominder</string>
+    <string name="abt_app">\t
+            Mission of oneomatic app is to provide a simple
+            cost-effective service to our client.\n \t In our
+            app,satisfaction is the top priority and we believe
+            in satisfying all the demands of our clients.</string>
+    <string name="abt_app1">\t
+            Our vision is to develop an app in a constant
+            manner and provide the best services to Our Users through
+            Oneomatic app.\n \t We aim to develop an app which would offer the best
+            services and help our client meet their goals.</string>
+</resources>

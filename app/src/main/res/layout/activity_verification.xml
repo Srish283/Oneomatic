@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/slr1"
+    android:layout_height="match_parent"
+    tools:context=".Authentication.VerificationActivity">
+
+    <ImageButton
+        android:id="@+id/close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#0000"
+        android:transitionName="close"
+        android:src="@drawable/ic_action_close"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/logo"
+            android:transitionName="logo_image"
+            android:layout_marginLeft="15dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:src="@drawable/ic_icons8_slack_new"/>
+    <TextView
+        android:id="@+id/vercode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verification\n\t\t\t\t\t\tCode"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:transitionName="logo_text"
+        android:textSize="40sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#EE74B3"/>
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/otp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:transitionName="otp"
+        android:text="Enter the OTP sent"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white"/>
+<com.chaos.view.PinView
+    android:id="@+id/pin"
+    android:layout_marginTop="70dp"
+    android:layout_gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/PinWidget.PinView"
+    android:cursorVisible="true"
+    android:inputType="number"
+    android:transitionName="pin"
+    android:itemBackground="#F7E2F5 "
+    app:itemCount="6"
+    app:hideLineWhenFilled="true"
+    app:cursorColor="#000"
+    app:itemRadius="5dp"
+    app:itemHeight="50dp"
+    app:itemWidth="50dp"
+    app:lineColor="#000"/>
+    <Button
+        android:id="@+id/verify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Verify"
+        android:transitionName="otp_button"
+        android:background="@drawable/button"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="70dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white"/>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:visibility="gone"
+        android:layout_centerInParent="true"/>
+
+</LinearLayout>
