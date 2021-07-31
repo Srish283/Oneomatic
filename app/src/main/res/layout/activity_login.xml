@@ -34,7 +34,7 @@
             android:transitionName="logo_text"
             android:paddingLeft="15dp"
             android:textStyle="bold"
-            android:textSize="32sp"/>
+            android:textSize="28sp"/>
     </LinearLayout>
     <LinearLayout
         android:id="@+id/l2"
@@ -54,8 +54,8 @@
             android:text="SIGN IN TO CONTINUE.."/>
         <ImageView
             android:id="@+id/loginIcon"
-            android:layout_width="160dp"
-            android:layout_height="160dp"
+            android:layout_width="136dp"
+            android:layout_height="136dp"
             android:src="@drawable/key"
             android:transitionName="login_image"
             android:layout_gravity="center"
@@ -136,7 +136,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="15dp"
         android:orientation="horizontal">
 
         <Button
@@ -180,7 +180,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="12dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="8dp"
         android:layout_marginRight="12dp"
         android:background="#0000"
         android:text="@string/new_user_sign_up"

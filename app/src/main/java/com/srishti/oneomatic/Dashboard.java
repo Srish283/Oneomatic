@@ -176,6 +176,7 @@ public class Dashboard extends AppCompatActivity implements NavigationView.OnNav
                                 sessionManager.logoutUser();
                                 Intent in=new Intent(getApplicationContext(), LoginActivity.class);
                                 startActivity(in);
+                                finish();
                                 Toast.makeText(getApplicationContext(),"Logged Out",Toast.LENGTH_SHORT).show();
 
                             }

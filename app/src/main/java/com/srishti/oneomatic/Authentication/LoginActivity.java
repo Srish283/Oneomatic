@@ -140,7 +140,7 @@ public class LoginActivity extends AppCompatActivity {
                             phone.setError(null);
                             phone.setErrorEnabled(false);
 
-                            String systemPassword=snapshot.child(_phone).child("passw").getValue(String.class);
+                            String systemPassword=snapshot.child(_phone).child("password").getValue(String.class);
                             if(systemPassword.equals(_password)){
                                 pass.setErrorEnabled(false);
                                 pass.setError(null);
@@ -148,7 +148,7 @@ public class LoginActivity extends AppCompatActivity {
                                 String nameFromDb=snapshot.child(_phone).child("name").getValue(String.class);
                                 String emailFromDb=snapshot.child(_phone).child("email").getValue(String.class);
                                 String phoneFromDb=snapshot.child(_phone).child("phone").getValue(String.class);
-                                String passFromDb=snapshot.child(_phone).child("passw").getValue(String.class);
+                                String passFromDb=snapshot.child(_phone).child("password").getValue(String.class);
 
                                 //create a session
                                 SessionManager sessionManager=new SessionManager(LoginActivity.this);
@@ -252,5 +252,9 @@ public class LoginActivity extends AppCompatActivity {
         alertDialog.show();
     }
 
+    @Override
+    public void onBackPressed(){
+
+    }
 
 }

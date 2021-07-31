@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.srishti.oneomatic.Dashboard;
 import com.srishti.oneomatic.Oxymeter.OxygenProcess;
 import com.srishti.oneomatic.R;
 
@@ -46,6 +47,14 @@ public class OxymeterActivity extends AppCompatActivity {
             setContentView(R.layout.activity_oxygen_process);
 
         });
+
+    }
+
+    @Override
+    public void onBackPressed(){
+        Intent intent=new Intent(getApplicationContext(), Dashboard.class);
+        startActivity(intent);
+        finish();
 
     }
 }

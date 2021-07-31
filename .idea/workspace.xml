@@ -6,13 +6,39 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12920046-fda7-4410-9f94-a56b3cf15024" name="Default Changelist" comment="" />
+    <list default="true" id="12920046-fda7-4410-9f94-a56b3cf15024" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Authentication/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Authentication/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Authentication/SetNewPasswordActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Authentication/SetNewPasswordActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Database/UserHelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Database/UserHelperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/MedicineReminder/reminder/AlarmReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/MedicineReminder/reminder/AlarmReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Oxymeter/OxygenCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Oxymeter/OxygenCalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Oxymeter/OxygenProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Oxymeter/OxygenProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Oxymeter/OxymeterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Oxymeter/OxymeterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Translation/TranslateFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/srishti/oneomatic/Translation/TranslateFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="RZ8R31JFG2P" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_XL_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -70,6 +96,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vDQS0lN1MUYSiny2YeNCtO7StS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -78,8 +107,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_XL_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-27T11:18:27.148Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-31T05:25:24.305Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -263,30 +293,30 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="706" y="169" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1627466370394" />
-    <state width="1236" height="2" key="GridCell.Tab.0.bottom" timestamp="1627384733281">
+    <state width="893" height="214" key="GridCell.Tab.0.bottom" timestamp="1627709162413">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1236" height="2" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1627384733281" />
-    <state width="1236" height="2" key="GridCell.Tab.0.center" timestamp="1627384733281">
+    <state width="893" height="214" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1627709162413" />
+    <state width="893" height="214" key="GridCell.Tab.0.center" timestamp="1627709162412">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1236" height="2" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1627384733281" />
-    <state width="1236" height="2" key="GridCell.Tab.0.left" timestamp="1627384733281">
+    <state width="893" height="214" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1627709162412" />
+    <state width="893" height="214" key="GridCell.Tab.0.left" timestamp="1627709162412">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1236" height="2" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1627384733281" />
-    <state width="1236" height="2" key="GridCell.Tab.0.right" timestamp="1627384733281">
+    <state width="893" height="214" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1627709162412" />
+    <state width="893" height="214" key="GridCell.Tab.0.right" timestamp="1627709162413">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1236" height="2" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1627384733281" />
+    <state width="893" height="214" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1627709162413" />
     <state x="779" y="137" key="chooseDestDirectoryDialog" timestamp="1627475608964">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="779" y="137" key="chooseDestDirectoryDialog/0.0.1280.672@0.0.1280.672" timestamp="1627475608964" />
-    <state x="600" y="175" key="com.intellij.ide.util.TipDialog" timestamp="1627466143646">
+    <state x="600" y="175" key="com.intellij.ide.util.TipDialog" timestamp="1627710552203">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="600" y="175" key="com.intellij.ide.util.TipDialog/0.0.1280.672@0.0.1280.672" timestamp="1627466143646" />
+    <state x="600" y="175" key="com.intellij.ide.util.TipDialog/0.0.1280.672@0.0.1280.672" timestamp="1627710552203" />
     <state x="510" y="94" key="psd.add.library.dependency.panel.dimension" timestamp="1626099374066">
       <screen x="0" y="0" width="1280" height="672" />
     </state>

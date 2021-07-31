@@ -83,7 +83,7 @@ public class TranslateFragment extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         Toolbar toolbar=view.findViewById(R.id.toolbar);
-        toolbar.inflateMenu(R.menu.navigation_menu);
+        //toolbar.inflateMenu(R.menu.navigation_menu);
         toolbar.setTitle("Translate Plus");
 
         final ImageButton switchButton = view.findViewById(R.id.buttonSwitchLang);
@@ -150,6 +150,7 @@ public class TranslateFragment extends Fragment {
             public void onClick(View view) {
                 Intent intent = new Intent(getActivity(),Dashboard.class);
                 getActivity().startActivity(intent);
+                getActivity().finish();
             }
         });
 
@@ -168,6 +169,7 @@ public class TranslateFragment extends Fragment {
                                 sessionManager.logoutUser();
                                 Intent in=new Intent(getActivity(), LoginActivity.class);
                                 startActivity(in);
+                                getActivity().finish();
                                 Toast.makeText(getActivity(),"Logged Out",Toast.LENGTH_SHORT).show();
 
                             }

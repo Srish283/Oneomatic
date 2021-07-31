@@ -19,7 +19,7 @@ public class UserHelperClass {
     public String getEmail(){
         return email;
     }
-    public String getPhoneNumber(){
+    public String getPhone(){
         return phone;
     }
     public String getPassword(){
@@ -35,7 +35,7 @@ public class UserHelperClass {
         this.email = email;
     }
 
-    public void setPhoneNumber(String phone) {
+    public void setPhone(String phone) {
         this.phone = phone;
     }
 

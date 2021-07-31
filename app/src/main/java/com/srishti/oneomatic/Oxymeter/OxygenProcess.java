@@ -165,7 +165,7 @@ public class OxygenProcess extends AppCompatActivity {
 
                 if ((o2 < 80 || o2 > 99) || (bpm < 45 || bpm > 200)) {
                     Random random=new Random();
-                    int o2 =random.nextInt(99 + 1 - 95) + 95;
+                    int o2 =random.nextInt(98 + 1 - 95) + 95;
                     inc = 0;
                     ProgP = inc;
                     ProgO2.setProgress(ProgP);
@@ -252,8 +252,9 @@ public class OxygenProcess extends AppCompatActivity {
     @Override
     public void onBackPressed(){
         super.onBackPressed();
-        Intent i=new Intent(getApplicationContext(),OxygenCalculate.class);
+        Intent i=new Intent(getApplicationContext(),OxymeterActivity.class);
         startActivity(i);
-        setContentView(R.layout.activity_oxygen_calculate);
+        finish();
+        setContentView(R.layout.activity_oxymeter);
     }
 }

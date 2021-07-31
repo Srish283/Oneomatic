@@ -102,7 +102,9 @@ public class OxygenCalculate extends AppCompatActivity {
     }
     @Override
     public void onBackPressed(){
-        super.onBackPressed();
+       Intent intent=new Intent(getApplicationContext(),OxymeterActivity.class);
+       startActivity(intent);
+       finish();
 
     }
 }

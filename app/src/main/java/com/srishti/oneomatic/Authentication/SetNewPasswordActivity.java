@@ -79,7 +79,7 @@ public class SetNewPasswordActivity extends AppCompatActivity {
 
         //UPDATE DATABASE IN SESSION
         DatabaseReference reference= FirebaseDatabase.getInstance().getReference("users");
-        reference.child(phn).child("passw").setValue(_newP);
+        reference.child(phn).child("password").setValue(_newP);
 
         Toast.makeText(getApplicationContext(),"Password Set Successfully",Toast.LENGTH_SHORT).show();
         Intent intent=new Intent(getApplicationContext(), LoginActivity.class);
