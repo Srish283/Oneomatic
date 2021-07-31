@@ -10,11 +10,15 @@
 
 ### Project Maintainers 🚧
 
-<table>
-  <tr>
+
     
-    <td align="center"><a href="https://www.linkedin.com/in/srishtibhandarkar/"><img src="https://avatars.githubusercontent.com/u/66556264?s=400&u=4efabe459297e37544e48d53fd2c0da085cd90c8&v=4" width="100px;" alt="Srishti Bhandarkar"/><br /><sub><b>Srishti Bhandarkar</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/sudhikshaprabhu/"><img src="https://www.linkedin.com/in/sudhikshaprabhu/detail/photo/" width="100px;" alt="Sudhiksha Prabhu"/><br /><sub><b>Sudhiksha Prabhu</b></sub></a></td>
+<div align="center">
+  <a href="https://www.linkedin.com/in/srishtibhandarkar/">
+    <img src="https://avatars.githubusercontent.com/u/66556264?s=400&u=4efabe459297e37544e48d53fd2c0da085cd90c8&v=4" width="100px;" alt="Srishti Bhandarkar"/><br />
+    <sub><b>Srishti Bhandarkar</b></sub></a>
+  <a href="https://www.linkedin.com/in/sudhikshaprabhu/">
+    <img src="https://www.linkedin.com/in/sudhikshaprabhu/detail/photo/" width="100px;" alt="Sudhiksha Prabhu"/><br />
+    <sub><b>Sudhiksha Prabhu</b></sub></a>
+</div>
     
-  </tr>
-</table>
+ 
