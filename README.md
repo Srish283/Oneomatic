@@ -15,9 +15,6 @@
 
 ---
  
-
-# :dizzy: Oneomatic :dizzy:
----
 ### :cyclone: Overview
 * Oneomatic is an Android Application that focuses on Assisting Needy and Aged.
 * It is basically an Application that consists of Four Applications in One i.e :-
@@ -51,6 +48,12 @@ $ git clone https://github.com/Srish283/Oneomatic.git
 # Open the repository from Android Studio 
 
 ```
+
+---
+### Demo :clapper:
+
+
+https://user-images.githubusercontent.com/71335691/127775731-5a1d4139-5b07-4b2e-b0bb-66fae07c3ee6.mp4
 
 ---
 
