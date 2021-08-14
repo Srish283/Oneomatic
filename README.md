@@ -1,11 +1,19 @@
-![Build](https://camo.githubusercontent.com/e5836c57c200644695d31ba01d95bef8888241245003fa34028a5d2ca081bd6e/68747470733a2f2f7472617669732d63692e6f72672f666f7373617369612f62616467652d6d616769632d616e64726f69642e7376673f6272616e63683d646576656c6f706d656e74)
-![Platform](https://img.shields.io/badge/platform-Android-yellow.svg)
-![Android Studio](https://camo.githubusercontent.com/610e58fd3b260e5d4e106a42588e60d9a1bee971324a8c23d9e30f4302e7f371/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c742532307573696e672d416e64726f69642053747564696f2d3166343235662e737667)
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
-![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) <br>
-![Language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+<div align="center"><img src="https://camo.githubusercontent.com/e5836c57c200644695d31ba01d95bef8888241245003fa34028a5d2ca081bd6e/68747470733a2f2f7472617669732d63692e6f72672f666f7373617369612f62616467652d6d616769632d616e64726f69642e7376673f6272616e63683d646576656c6f706d656e74">
+<img src="https://img.shields.io/badge/platform-Android-yellow.svg">
+<img src="https://camo.githubusercontent.com/610e58fd3b260e5d4e106a42588e60d9a1bee971324a8c23d9e30f4302e7f371/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c742532307573696e672d416e64726f69642053747564696f2d3166343235662e737667">
+<img src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square">
+<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"> <br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></div>
+ 
+ 
+ ---
+
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/71335691/127775959-8e62f12a-c7c3-4372-9e64-610fd9cd4263.jpeg" width="50" height="30">ONEOMATIC<img src="https://user-images.githubusercontent.com/71335691/127775959-8e62f12a-c7c3-4372-9e64-610fd9cd4263.jpeg" width="50" height="30"></h1>
+
+---
  
 
 # :dizzy: Oneomatic :dizzy:
@@ -46,7 +54,7 @@ $ git clone https://github.com/Srish283/Oneomatic.git
 
 ---
 
-### Project Maintainers 🚧
+### Developers 🚧
 
 <table>
   <tr>
